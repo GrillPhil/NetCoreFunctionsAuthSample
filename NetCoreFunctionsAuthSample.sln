@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetCoreFunctionsAuthSample", "NetCoreFunctionsAuthSample\NetCoreFunctionsAuthSample.csproj", "{64A60BCB-5F45-4938-B47B-66744D943D63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A60BCB-5F45-4938-B47B-66744D943D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64A60BCB-5F45-4938-B47B-66744D943D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64A60BCB-5F45-4938-B47B-66744D943D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64A60BCB-5F45-4938-B47B-66744D943D63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4CD14AC2-9BD2-4B7F-9983-DDE8C0384CD3}
+	EndGlobalSection
+EndGlobal
